@@ -7,13 +7,13 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
-    label: "Qué puedo hacer?",
-    prompt: "Qué puedo hacer?",
+    label: "Qué te puedo ayudar ?",
+    prompt: "Qué te puedo ayudar?",
     icon: "circle-question",
   },
 ];
 
-export const PLACEHOLDER_INPUT = "..";
+export const PLACEHOLDER_INPUT = "...";
 
 export const GREETING = "Hola!, ¿En qué te puedo ayudar hoy?";
 
